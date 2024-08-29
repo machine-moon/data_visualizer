@@ -25,9 +25,8 @@ Data Inspector is a Python-based tool designed to load, sort, and visualize data
 
 ## Usage
 
-1. Download and extract the `data_inspector_T100.zip` file.
-2. Run the main Python script from the extracted folder.
-3. Follow the on-screen instructions to choose the data visualization options.
+1. Run the main Python script from the extracted folder.
+2. Follow the on-screen instructions to choose the data visualization options.
 
 ## Dependencies
 
@@ -42,11 +41,6 @@ Data Inspector is a Python-based tool designed to load, sort, and visualize data
 - **Gillian O'Connell**: Data Sorting and Analysis
 - **Phillip Pietrobon**: Histogram Development, Documentation
 - **Tarek Ibrahim**: Text User Interface, Data Sorting
-
-## Contact
-
-- **Team Leader**: Jonah Cook  
-  **Email**: jonahcook@cmail.carleton.ca
 
 ## License
 
